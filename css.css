@@ -1,3 +1,79 @@
-button.ui.green.active.button {
-  background-color: red !important;
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+thead.all-users-table__ .all-users-table__main-table-head th.all-users-table__table-head:nth-of-type(1),
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+tbody tr.all-users-list-row td.all-users-list-row__td:nth-of-type(1),
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+thead.all-users-table__ .all-users-table__main-table-head th.all-users-table__table-head:nth-of-type(3),
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+tbody tr.all-users-list-row td.all-users-list-row__td:nth-of-type(3),
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+thead.all-users-table__ .all-users-table__main-table-head th.all-users-table__table-head:nth-of-type(5),
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+tbody tr.all-users-list-row td.all-users-list-row__td:nth-of-type(5),
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+thead.all-users-table__ .all-users-table__main-table-head th.all-users-table__table-head:nth-of-type(8),
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+tbody tr.all-users-list-row td.all-users-list-row__td:nth-of-type(8),
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+thead.all-users-table__ .all-users-table__main-table-head th.all-users-table__table-head:nth-last-of-type(3),
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+tbody tr.all-users-list-row td.all-users-list-row__td:nth-last-of-type(3),
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+thead.all-users-table__ .all-users-table__main-table-head th.all-users-table__table-head:nth-last-of-type(4),
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+tbody tr.all-users-list-row td.all-users-list-row__td:nth-last-of-type(4),
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+thead.all-users-table__ .all-users-table__main-table-head th.all-users-table__table-head:nth-last-of-type(5),
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+tbody tr.all-users-list-row td.all-users-list-row__td:nth-last-of-type(5),
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+thead.all-users-table__ .all-users-table__main-table-head th.all-users-table__table-head:nth-last-of-type(6),
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+tbody tr.all-users-list-row td.all-users-list-row__td:nth-last-of-type(6){
+  display:none;
+}
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+thead.all-users-table__ .all-users-table__main-table-head {
+  height:30px;
+}
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+thead.all-users-table__ .all-users-table__main-table-head .all-users-table__table-head-with-order .order-component {
+  display:block;
+}
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+thead.all-users-table__ .all-users-table__main-table-head .all-users-table__table-head-with-order
+.order-component .SVGInline.order-component__arrow {
+  height:10px;
+}
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+tbody tr.all-users-list-row td.all-users-list-row__td:nth-of-type(4),
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+tbody tr.all-users-list-row td.all-users-list-row__td:nth-of-type(2){
+  padding: 0px 0px 0px 0px;
+}
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+thead.all-users-table__ .all-users-table__main-table-head th.all-users-table__table-head:nth-of-type(6){
+  max-width: 60px;
+  text-wrap:wrap
+}
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+tbody tr.all-users-list-row td.all-users-list-row__td:nth-of-type(6){
+  padding: 0px 0px 0px 0px;
+  max-width: 60px;
+  overflow:hidden;
+  text-overflow: ellipsis
+}
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+thead.all-users-table__ .all-users-table__main-table-head th.all-users-table__table-head:nth-of-type(7),
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+tbody tr.all-users-list-row td.all-users-list-row__td:nth-of-type(7){
+  max-width:50px;
+}
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+tbody tr.all-users-list-row td.all-users-list-row__td:nth-of-type(7) > span {
+  max-width:10px;
+}
+.app__container .app__main .administration-layout__content .administration-all-users table.all-users-table__table
+tbody tr.all-users-list-row td.all-users-list-row__td:nth-of-type(7) > span > span:nth-of-type(2){
+  display:none;
 }
