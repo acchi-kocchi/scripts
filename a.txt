@@ -1,0 +1,21 @@
+// ==UserScript==
+// @name         agent.bet30vip.bet_CLEAN_UP
+// @namespace    http://tampermonkey.net/
+// @version      2026-07-21
+// @description  try to take over the world!
+// @author       You
+// @match        https://agent.bet30vip.bet/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=bet30vip.bet
+// @resource     IMPORTED_CSS https://raw.githubusercontent.com/acchi-kocchi/scripts/refs/heads/main/agent_css.css
+// @grant        GM_getResourceText
+// @grant        GM_addStyle
+// ==/UserScript==
+
+//javascript:(()=>{window.open('https://acchi-kocchi.github.io/horadic-cube/?T=WVdOamFHa3RhMjlqWTJocDRjMDIzNmVlODA=','targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=406,height=671');})();
+
+(function(){
+	'use strict';
+
+    const css=GM_getResourceText("IMPORTED_CSS");
+    GM_addStyle(css);
+})();
