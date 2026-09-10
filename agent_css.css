@@ -49,12 +49,7 @@
 .authorized-template-desktop__content.payment-history .loader-container.payment-history__loader .payment-history__content .table__container.table__container_scrollable table.table thead tr th:nth-of-type(5),
 .authorized-template-desktop__content.payment-history .loader-container.payment-history__loader .payment-history__content .table__container.table__container_scrollable table.table tbody tr td:nth-of-type(5),
 .authorized-template-desktop__content.payment-history .loader-container.payment-history__loader .payment-history__content .table__container.table__container_scrollable table.table thead tr th:nth-of-type(9),
-.authorized-template-desktop__content.payment-history .loader-container.payment-history__loader .payment-history__content .table__container.table__container_scrollable table.table tbody tr td:nth-of-type(9),
-#modal-root .modal .modal-content.create-user.users-list-page-desktop__create-player .input.create-user__input:nth-of-type(2),
-#modal-root .modal .modal-content.create-user.users-list-page-desktop__create-player .input.create-user__input:nth-of-type(4),
-#modal-root .modal .modal-content.create-user.users-list-page-desktop__create-player .input.create-user__input:nth-of-type(6),
-#modal-root .modal .modal-content.create-user.users-list-page-desktop__create-player .input.create-user__input:nth-of-type(7),
-#modal-root .modal .modal-content.create-user.users-list-page-desktop__create-player .input.create-user__input .generate-password.create-user__generate-password {
+.authorized-template-desktop__content.payment-history .loader-container.payment-history__loader .payment-history__content .table__container.table__container_scrollable table.table tbody tr td:nth-of-type(9) {
 	display:none
 }
 .authorized-template-desktop__content.transactions-page .loader-container.transactions-page__loader .loader-container__content .table__container.table__container_scrollable table.table tbody tr td:nth-of-type(11) *,
