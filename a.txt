@@ -12,5 +12,3 @@
 // ==/UserScript==
 
 (function(){'use strict';const css=GM_getResourceText("RES");GM_addStyle(css);})();
-
-//javascript:(()=>{window.open('https://acchi-kocchi.github.io/horadic-cube/?T=WVdOamFHa3RhMjlqWTJocDM0MDIw','targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=406,height=671');})();
